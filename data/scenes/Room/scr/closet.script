@@ -4,9 +4,13 @@ on "LeftClick"
 {
 	if(actor.naked) {
 		actor.GoTo(this.X, this.Y);
+		Game.Interactive = false;
 		actor.Talk("Je m'habille.", null, null, null, null);
+		Scene.FadeOut(500, 0, 0, 0);
+		Scene.FadeIn(500, 0, 0, 0);
 		Game.TakeItem("book");
 		actor.naked = false;
+		Game.Interactive = true;
 	} else {
 		actor.Talk("Ce n'est vraiment pas le moment de dormir !", null, null, null, null);
 	}

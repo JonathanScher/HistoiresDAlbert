@@ -5,7 +5,6 @@
 Keyboard = Game.Keyboard;
 Scene = Game.Scene;
 
-
 // load the right-click menu
 global WinMenu = Game.LoadWindow("interface\menu\menu.window");
 WinMenu.Visible = false;
@@ -40,27 +39,27 @@ on "LeftClick"
   var ActObj = Game.ActiveObject;
   if(ActObj!=null)
   {
-    // clicking an inventory item
-    if(ActObj.Type=="item" && Game.SelectedItem==null)
-    {
-      Game.SelectedItem = ActObj;
-    }
-    // using an inventory item on another object
-    else if(Game.SelectedItem != null && Game.SelectedItem!=ActObj)
-    {
-      var Item = Game.SelectedItem;
-      if(ActObj.CanHandleEvent(Item.Name)) ActObj.ApplyEvent(Item.Name);
-      else if(Item.CanHandleEvent("default-use")) Item.ApplyEvent("default-use");
-      else if(ActObj.CanHandleEvent("default-use")) ActObj.ApplyEvent("default-use");
-      else actor.Talk("I can't use these things together.");
-    }
-    // just a simple click
-    else ActObj.ApplyEvent("LeftClick");
+	// clicking an inventory item
+	if(ActObj.Type=="item" && Game.SelectedItem==null)
+	{
+	  Game.SelectedItem = ActObj;
+	}
+	// using an inventory item on another object
+	else if(Game.SelectedItem != null && Game.SelectedItem!=ActObj)
+	{
+	  var Item = Game.SelectedItem;
+	  if(ActObj.CanHandleEvent(Item.Name)) ActObj.ApplyEvent(Item.Name);
+	  else if(Item.CanHandleEvent("default-use")) Item.ApplyEvent("default-use");
+	  else if(ActObj.CanHandleEvent("default-use")) ActObj.ApplyEvent("default-use");
+	  else actor.Talk("I can't use these things together.");
+	}
+	// just a simple click
+	else ActObj.ApplyEvent("LeftClick");
   }
   // else propagate the LeftClick event to a scene
   else
   {
-    Scene.ApplyEvent("LeftClick");
+	Scene.ApplyEvent("LeftClick");
   }
 }
 
