@@ -1,0 +1,38 @@
+#include "scripts\base.inc"
+
+// here comes the stuff which initializes the scene
+
+actor.SkipTo(1199, 607);
+this.SkipTo(1199, 607);
+actor.Direction = DI_DOWN;
+actor.Active = true;
+
+
+////////////////////////////////////////////////////////////////////////////////
+// scene state
+global StateRoom;
+
+
+// default values
+if(StateRoom==null)
+{
+  StateRoom.Visited = false;
+  // add scene states here
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// setup scene according to state variables
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+if(!StateRoom.Visited)
+{
+  StateRoom.Visited = true;
+  actor.SkipTo(202, 513);
+  this.SkipTo(202, 513);
+  // this is our first visit in this scene...
+}
+

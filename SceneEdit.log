@@ -1,0 +1,597 @@
+
+09:13: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+09:13: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:13: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:13: DirectX version: 9.0
+09:13: 
+09:13: Scanning packages...
+09:13:   Registered 0 files in 0 package(s)
+09:13: Initializing scripting engine...
+09:13:   Script compiler bound successfuly
+09:13: Loading plugins...
+09:13:   wme_sample_pixel.dll
+09:13:   wme_snow.dll
+09:13: Scanning packages...
+09:13:   Registered 0 files in 0 package(s)
+09:13: Enumerating Direct3D devices...
+09:13: Enumerating DirectSound devices...
+09:13: Game aspect ratio:    -1.#IND00
+09:13: Monitor aspect ratio: 1.600000
+09:13: Game aspect ratio is the same as monitor aspect ratio.
+09:13: Backup resolution:  0 x 0
+09:13: 
+09:13: Available video devices:
+09:13:   ATI Radeon HD 5800 Series (accelerated)
+09:13:     Driver: aticfx32.dll 8.17.10.1172
+09:13:     Monitor: 0
+09:13: Available audio devices:
+09:13:   Périphérique audio principal
+09:13:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:13:   /syseng0019/[no sound]
+09:13: Auto selecting devices for windowed mode:
+09:13:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:13:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:13:   Audio: Périphérique audio principal
+09:13: Maximum texture size: 16384x16384
+09:13: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+09:25: 
+09:25: Shutting down...
+09:25: Shutting down scripting engine
+09:25: ********** DEBUG LOG CLOSED ********************************************
+
+10:08: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:08: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:08: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:08: DirectX version: 9.0
+10:08: 
+10:08: Scanning packages...
+10:09:   Registered 0 files in 0 package(s)
+10:09: Initializing scripting engine...
+10:09:   Script compiler bound successfuly
+10:09: Loading plugins...
+10:09:   wme_sample_pixel.dll
+10:09:   wme_snow.dll
+10:09: Scanning packages...
+10:09:   Registered 0 files in 0 package(s)
+10:09: Enumerating Direct3D devices...
+10:09: Enumerating DirectSound devices...
+10:09: Game aspect ratio:    -1.#IND00
+10:09: Monitor aspect ratio: 1.600000
+10:09: Game aspect ratio is the same as monitor aspect ratio.
+10:09: Backup resolution:  0 x 0
+10:09: 
+10:09: Available video devices:
+10:09:   ATI Radeon HD 5800 Series (accelerated)
+10:09:     Driver: aticfx32.dll 8.17.10.1172
+10:09:     Monitor: 0
+10:09: Available audio devices:
+10:09:   Périphérique audio principal
+10:09:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:09:   /syseng0019/[no sound]
+10:09: Auto selecting devices for windowed mode:
+10:09:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:09:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:09:   Audio: Périphérique audio principal
+10:09: Maximum texture size: 16384x16384
+10:09: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+
+10:15: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:15: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:15: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:15: DirectX version: 9.0
+10:15: 
+10:15: Scanning packages...
+10:15:   Registered 0 files in 0 package(s)
+10:15: Initializing scripting engine...
+10:15:   Script compiler bound successfuly
+10:15: Loading plugins...
+10:15:   wme_sample_pixel.dll
+10:15:   wme_snow.dll
+10:15: Scanning packages...
+10:15:   Registered 0 files in 0 package(s)
+10:15: Enumerating Direct3D devices...
+10:15: Enumerating DirectSound devices...
+10:15: Game aspect ratio:    -1.#IND00
+10:15: Monitor aspect ratio: 1.600000
+10:15: Game aspect ratio is the same as monitor aspect ratio.
+10:15: Backup resolution:  0 x 0
+10:15: 
+10:15: Available video devices:
+10:15:   ATI Radeon HD 5800 Series (accelerated)
+10:15:     Driver: aticfx32.dll 8.17.10.1172
+10:15:     Monitor: 0
+10:15: Available audio devices:
+10:15:   Périphérique audio principal
+10:15:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:15:   /syseng0019/[no sound]
+10:15: Auto selecting devices for windowed mode:
+10:15:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:15:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:15:   Audio: Périphérique audio principal
+10:15: Maximum texture size: 16384x16384
+10:15: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+10:16: 
+10:16: Shutting down...
+10:16: Shutting down scripting engine
+10:16: ********** DEBUG LOG CLOSED ********************************************
+
+10:17: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:17: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:17: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:17: DirectX version: 9.0
+10:17: 
+10:17: Scanning packages...
+10:17:   Registered 0 files in 0 package(s)
+10:17: Initializing scripting engine...
+10:17:   Script compiler bound successfuly
+10:17: Loading plugins...
+10:17:   wme_sample_pixel.dll
+10:17:   wme_snow.dll
+10:17: Scanning packages...
+10:17:   Registered 0 files in 0 package(s)
+10:17: Enumerating Direct3D devices...
+10:17: Enumerating DirectSound devices...
+10:17: Game aspect ratio:    -1.#IND00
+10:17: Monitor aspect ratio: 1.600000
+10:17: Game aspect ratio is the same as monitor aspect ratio.
+10:17: Backup resolution:  0 x 0
+10:17: 
+10:17: Available video devices:
+10:17:   ATI Radeon HD 5800 Series (accelerated)
+10:17:     Driver: aticfx32.dll 8.17.10.1172
+10:17:     Monitor: 0
+10:17: Available audio devices:
+10:17:   Périphérique audio principal
+10:17:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:17:   /syseng0019/[no sound]
+10:17: Auto selecting devices for windowed mode:
+10:17:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:17:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:17:   Audio: Périphérique audio principal
+10:17: Maximum texture size: 16384x16384
+10:17: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+10:23: 
+10:23: Shutting down...
+10:23: Shutting down scripting engine
+10:23: ********** DEBUG LOG CLOSED ********************************************
+
+10:29: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:29: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:29: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:29: DirectX version: 9.0
+10:29: 
+10:29: Scanning packages...
+10:29:   Registered 0 files in 0 package(s)
+10:29: Initializing scripting engine...
+10:29:   Script compiler bound successfuly
+10:29: Loading plugins...
+10:29:   wme_sample_pixel.dll
+10:29:   wme_snow.dll
+10:29: Scanning packages...
+10:29:   Registered 0 files in 0 package(s)
+10:29: Enumerating Direct3D devices...
+10:29: Enumerating DirectSound devices...
+10:29: Game aspect ratio:    -1.#IND00
+10:29: Monitor aspect ratio: 1.600000
+10:29: Game aspect ratio is the same as monitor aspect ratio.
+10:29: Backup resolution:  0 x 0
+10:29: 
+10:29: Available video devices:
+10:29:   ATI Radeon HD 5800 Series (accelerated)
+10:29:     Driver: aticfx32.dll 8.17.10.1172
+10:29:     Monitor: 0
+10:29: Available audio devices:
+10:29:   Périphérique audio principal
+10:29:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:29:   /syseng0019/[no sound]
+10:29: Auto selecting devices for windowed mode:
+10:29:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:29:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:29:   Audio: Périphérique audio principal
+10:29: Maximum texture size: 16384x16384
+10:29: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\taverne_main\taverne_main.scene' -----
+10:33: 
+10:33: Shutting down...
+10:33: Shutting down scripting engine
+10:33: ********** DEBUG LOG CLOSED ********************************************
+
+10:33: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:33: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:33: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:33: DirectX version: 9.0
+10:33: 
+10:33: Scanning packages...
+10:33:   Registered 0 files in 0 package(s)
+10:33: Initializing scripting engine...
+10:33:   Script compiler bound successfuly
+10:33: Loading plugins...
+10:33:   wme_sample_pixel.dll
+10:33:   wme_snow.dll
+10:33: Scanning packages...
+10:33:   Registered 0 files in 0 package(s)
+10:33: Enumerating Direct3D devices...
+10:33: Enumerating DirectSound devices...
+10:33: Game aspect ratio:    -1.#IND00
+10:33: Monitor aspect ratio: 1.600000
+10:33: Game aspect ratio is the same as monitor aspect ratio.
+10:33: Backup resolution:  0 x 0
+10:33: 
+10:33: Available video devices:
+10:33:   ATI Radeon HD 5800 Series (accelerated)
+10:33:     Driver: aticfx32.dll 8.17.10.1172
+10:33:     Monitor: 0
+10:33: Available audio devices:
+10:33:   Périphérique audio principal
+10:33:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:33:   /syseng0019/[no sound]
+10:33: Auto selecting devices for windowed mode:
+10:33:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:33:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:33:   Audio: Périphérique audio principal
+10:33: Maximum texture size: 16384x16384
+10:33: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\taverne_main\taverne_main.scene' -----
+10:33: 
+10:33: Shutting down...
+10:33: Shutting down scripting engine
+10:33: ********** DEBUG LOG CLOSED ********************************************
+
+10:35: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:35: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:35: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:35: DirectX version: 9.0
+10:35: 
+10:35: Scanning packages...
+10:35:   Registered 0 files in 0 package(s)
+10:35: Initializing scripting engine...
+10:35:   Script compiler bound successfuly
+10:35: Loading plugins...
+10:35:   wme_sample_pixel.dll
+10:35:   wme_snow.dll
+10:35: Scanning packages...
+10:35:   Registered 0 files in 0 package(s)
+10:35: Enumerating Direct3D devices...
+10:35: Enumerating DirectSound devices...
+10:35: Game aspect ratio:    -1.#IND00
+10:35: Monitor aspect ratio: 1.600000
+10:35: Game aspect ratio is the same as monitor aspect ratio.
+10:35: Backup resolution:  0 x 0
+10:35: 
+10:35: Available video devices:
+10:35:   ATI Radeon HD 5800 Series (accelerated)
+10:35:     Driver: aticfx32.dll 8.17.10.1172
+10:35:     Monitor: 0
+10:35: Available audio devices:
+10:35:   Périphérique audio principal
+10:35:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:35:   /syseng0019/[no sound]
+10:35: Auto selecting devices for windowed mode:
+10:35:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:35:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:35:   Audio: Périphérique audio principal
+10:35: Maximum texture size: 16384x16384
+10:35: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\taverne_main\taverne_main.scene' -----
+10:35: 
+10:35: Shutting down...
+10:35: Shutting down scripting engine
+10:35: ********** DEBUG LOG CLOSED ********************************************
+
+10:36: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:36: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:36: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:36: DirectX version: 9.0
+10:36: 
+10:36: Scanning packages...
+10:36:   Registered 0 files in 0 package(s)
+10:36: Initializing scripting engine...
+10:36:   Script compiler bound successfuly
+10:36: Loading plugins...
+10:36:   wme_sample_pixel.dll
+10:36:   wme_snow.dll
+10:36: Scanning packages...
+10:36:   Registered 0 files in 0 package(s)
+10:36: Enumerating Direct3D devices...
+10:36: Enumerating DirectSound devices...
+10:36: Game aspect ratio:    -1.#IND00
+10:36: Monitor aspect ratio: 1.600000
+10:36: Game aspect ratio is the same as monitor aspect ratio.
+10:36: Backup resolution:  0 x 0
+10:36: 
+10:36: Available video devices:
+10:36:   ATI Radeon HD 5800 Series (accelerated)
+10:36:     Driver: aticfx32.dll 8.17.10.1172
+10:36:     Monitor: 0
+10:36: Available audio devices:
+10:36:   Périphérique audio principal
+10:36:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:36:   /syseng0019/[no sound]
+10:36: Auto selecting devices for windowed mode:
+10:36:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:36:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:36:   Audio: Périphérique audio principal
+10:36: Maximum texture size: 16384x16384
+10:36: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\taverne_main\taverne_main.scene' -----
+10:39: 
+10:39: Shutting down...
+10:39: Shutting down scripting engine
+10:39: ********** DEBUG LOG CLOSED ********************************************
+
+10:40: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:40: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:40: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:40: DirectX version: 9.0
+10:40: 
+10:40: Scanning packages...
+10:40:   Registered 0 files in 0 package(s)
+10:40: Initializing scripting engine...
+10:40:   Script compiler bound successfuly
+10:40: Loading plugins...
+10:40:   wme_sample_pixel.dll
+10:40:   wme_snow.dll
+10:40: Scanning packages...
+10:40:   Registered 0 files in 0 package(s)
+10:40: Enumerating Direct3D devices...
+10:40: Enumerating DirectSound devices...
+10:40: Game aspect ratio:    -1.#IND00
+10:40: Monitor aspect ratio: 1.600000
+10:40: Game aspect ratio is the same as monitor aspect ratio.
+10:40: Backup resolution:  0 x 0
+10:40: 
+10:40: Available video devices:
+10:40:   ATI Radeon HD 5800 Series (accelerated)
+10:40:     Driver: aticfx32.dll 8.17.10.1172
+10:40:     Monitor: 0
+10:40: Available audio devices:
+10:40:   Périphérique audio principal
+10:40:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:40:   /syseng0019/[no sound]
+10:40: Auto selecting devices for windowed mode:
+10:40:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:40:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:40:   Audio: Périphérique audio principal
+10:40: Maximum texture size: 16384x16384
+10:40: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+10:42: 
+10:42: Shutting down...
+10:42: Shutting down scripting engine
+10:42: ********** DEBUG LOG CLOSED ********************************************
+
+10:44: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:44: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:44: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:44: DirectX version: 9.0
+10:44: 
+10:44: Scanning packages...
+10:44:   Registered 0 files in 0 package(s)
+10:44: Initializing scripting engine...
+10:44:   Script compiler bound successfuly
+10:44: Loading plugins...
+10:44:   wme_sample_pixel.dll
+10:44:   wme_snow.dll
+10:44: Scanning packages...
+10:44:   Registered 0 files in 0 package(s)
+10:44: Enumerating Direct3D devices...
+10:44: Enumerating DirectSound devices...
+10:44: Game aspect ratio:    -1.#IND00
+10:44: Monitor aspect ratio: 1.600000
+10:44: Game aspect ratio is the same as monitor aspect ratio.
+10:44: Backup resolution:  0 x 0
+10:44: 
+10:44: Available video devices:
+10:44:   ATI Radeon HD 5800 Series (accelerated)
+10:44:     Driver: aticfx32.dll 8.17.10.1172
+10:44:     Monitor: 0
+10:44: Available audio devices:
+10:44:   Périphérique audio principal
+10:44:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:44:   /syseng0019/[no sound]
+10:44: Auto selecting devices for windowed mode:
+10:44:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:44:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:44:   Audio: Périphérique audio principal
+10:44: Maximum texture size: 16384x16384
+10:44: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\taverne_main\taverne_main.scene' -----
+10:45: 
+10:45: Shutting down...
+10:45: Shutting down scripting engine
+10:45: ********** DEBUG LOG CLOSED ********************************************
+
+10:46: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:46: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:46: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:46: DirectX version: 9.0
+10:46: 
+10:46: Scanning packages...
+10:46:   Registered 0 files in 0 package(s)
+10:46: Initializing scripting engine...
+10:46:   Script compiler bound successfuly
+10:46: Loading plugins...
+10:46:   wme_sample_pixel.dll
+10:46:   wme_snow.dll
+10:46: Scanning packages...
+10:46:   Registered 0 files in 0 package(s)
+10:46: Enumerating Direct3D devices...
+10:46: Enumerating DirectSound devices...
+10:46: Game aspect ratio:    -1.#IND00
+10:46: Monitor aspect ratio: 1.600000
+10:46: Game aspect ratio is the same as monitor aspect ratio.
+10:46: Backup resolution:  0 x 0
+10:46: 
+10:46: Available video devices:
+10:46:   ATI Radeon HD 5800 Series (accelerated)
+10:46:     Driver: aticfx32.dll 8.17.10.1172
+10:46:     Monitor: 0
+10:46: Available audio devices:
+10:46:   Périphérique audio principal
+10:46:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:46:   /syseng0019/[no sound]
+10:46: Auto selecting devices for windowed mode:
+10:46:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:46:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:46:   Audio: Périphérique audio principal
+10:46: Maximum texture size: 16384x16384
+10:46: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+10:46: 
+10:46: Shutting down...
+10:46: Shutting down scripting engine
+10:46: ********** DEBUG LOG CLOSED ********************************************
+
+09:47: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:47: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:47: DirectX version: 9.0
+09:47: 
+09:47: Scanning packages...
+09:47:   Registered 0 files in 0 package(s)
+09:47: Initializing scripting engine...
+09:47:   Script compiler bound successfuly
+09:47: Loading plugins...
+09:47:   wme_sample_pixel.dll
+09:47:   wme_snow.dll
+09:47: Scanning packages...
+09:47:   Registered 0 files in 0 package(s)
+09:47: Enumerating Direct3D devices...
+09:47: Enumerating DirectSound devices...
+09:47: Game aspect ratio:    -1.#IND00
+09:47: Monitor aspect ratio: 1.600000
+09:47: Game aspect ratio is the same as monitor aspect ratio.
+09:47: Backup resolution:  0 x 0
+09:47: 
+09:47: Available video devices:
+09:47:   ATI Radeon HD 5800 Series (accelerated)
+09:47:     Driver: aticfx32.dll 8.17.10.1172
+09:47:     Monitor: 0
+09:47: Available audio devices:
+09:47:   Périphérique audio principal
+09:47:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:47:   /syseng0019/[no sound]
+09:47: Auto selecting devices for windowed mode:
+09:47:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:47:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:47:   Audio: Périphérique audio principal
+09:47: Maximum texture size: 16384x16384
+09:47: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+09:49: 
+09:49: Shutting down...
+09:49: Shutting down scripting engine
+09:49: ********** DEBUG LOG CLOSED ********************************************
+
+09:55: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:55: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:55: DirectX version: 9.0
+09:55: 
+09:55: Scanning packages...
+09:55:   Registered 0 files in 0 package(s)
+09:55: Initializing scripting engine...
+09:55:   Script compiler bound successfuly
+09:55: Loading plugins...
+09:55:   wme_sample_pixel.dll
+09:55:   wme_snow.dll
+09:55: Scanning packages...
+09:55:   Registered 0 files in 0 package(s)
+09:55: Enumerating Direct3D devices...
+09:55: Enumerating DirectSound devices...
+09:55: Game aspect ratio:    -1.#IND00
+09:55: Monitor aspect ratio: 1.600000
+09:55: Game aspect ratio is the same as monitor aspect ratio.
+09:55: Backup resolution:  0 x 0
+09:55: 
+09:55: Available video devices:
+09:55:   ATI Radeon HD 5800 Series (accelerated)
+09:55:     Driver: aticfx32.dll 8.17.10.1172
+09:55:     Monitor: 0
+09:55: Available audio devices:
+09:55:   Périphérique audio principal
+09:55:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:55:   /syseng0019/[no sound]
+09:55: Auto selecting devices for windowed mode:
+09:55:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:55:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:55:   Audio: Périphérique audio principal
+09:55: Maximum texture size: 16384x16384
+09:55: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+09:55: 
+09:55: Shutting down...
+09:55: Shutting down scripting engine
+09:55: CBSurfaceStorage warning: purging surface 'items\book.bmp', usage:1
+09:55: ********** DEBUG LOG CLOSED ********************************************
+
+09:56: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:56: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:56: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:56: DirectX version: 9.0
+09:56: 
+09:56: Scanning packages...
+09:56:   Registered 0 files in 0 package(s)
+09:56: Initializing scripting engine...
+09:56:   Script compiler bound successfuly
+09:56: Loading plugins...
+09:56:   wme_sample_pixel.dll
+09:56:   wme_snow.dll
+09:56: Scanning packages...
+09:56:   Registered 0 files in 0 package(s)
+09:56: Enumerating Direct3D devices...
+09:56: Enumerating DirectSound devices...
+09:56: Game aspect ratio:    -1.#IND00
+09:56: Monitor aspect ratio: 1.600000
+09:56: Game aspect ratio is the same as monitor aspect ratio.
+09:56: Backup resolution:  0 x 0
+09:56: 
+09:56: Available video devices:
+09:56:   ATI Radeon HD 5800 Series (accelerated)
+09:56:     Driver: aticfx32.dll 8.17.10.1172
+09:56:     Monitor: 0
+09:56: Available audio devices:
+09:56:   Périphérique audio principal
+09:56:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:56:   /syseng0019/[no sound]
+09:56: Auto selecting devices for windowed mode:
+09:56:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:56:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:56:   Audio: Périphérique audio principal
+09:56: Maximum texture size: 16384x16384
+09:56: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+09:56: 
+09:56: Shutting down...
+09:56: Shutting down scripting engine
+09:56: ********** DEBUG LOG CLOSED ********************************************
+
+10:31: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:31: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+10:31: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:31: DirectX version: 9.0
+10:31: 
+10:31: Scanning packages...
+10:31:   Registered 0 files in 0 package(s)
+10:31: Initializing scripting engine...
+10:31:   Script compiler bound successfuly
+10:31: Loading plugins...
+10:31:   wme_sample_pixel.dll
+10:31:   wme_snow.dll
+10:31: Scanning packages...
+10:31:   Registered 0 files in 0 package(s)
+10:31: Enumerating Direct3D devices...
+10:31: Enumerating DirectSound devices...
+10:31: Game aspect ratio:    -1.#IND00
+10:31: Monitor aspect ratio: 1.600000
+10:31: Game aspect ratio is the same as monitor aspect ratio.
+10:31: Backup resolution:  0 x 0
+10:31: 
+10:31: Available video devices:
+10:31:   ATI Radeon HD 5800 Series (accelerated)
+10:31:     Driver: aticfx32.dll 8.17.10.1172
+10:31:     Monitor: 0
+10:31: Available audio devices:
+10:31:   Périphérique audio principal
+10:31:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:31:   /syseng0019/[no sound]
+10:31: Auto selecting devices for windowed mode:
+10:31:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:31:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+10:31:   Audio: Périphérique audio principal
+10:31: Maximum texture size: 16384x16384
+10:31: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\data\scenes\Room\Room.scene' -----
+10:33: 
+10:33: Shutting down...
+10:33: Shutting down scripting engine
+10:33: ********** DEBUG LOG CLOSED ********************************************

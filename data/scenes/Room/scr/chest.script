@@ -1,0 +1,25 @@
+#include "scripts\base.inc"
+
+on "LeftClick" 
+{
+	if(actor.shoes == true) {
+		actor.talk("J'espère qui ne comptera pas trop chère pour sa serrure.");
+	} else if(this.open) {
+		actor.shoes = true;
+		actor.Talk("J'ai mis mes chaussures.");
+	} else {
+		actor.Talk("C'est fermé. J'ai rangé la clé sous mon oreiller");
+	}
+}
+
+on "book" {
+	this.open = true;
+	Game.SelectedItem = null;
+	Game.DropItem("book");
+	actor.Talk("C'est quelle clé déjà... celle là ? Ah non... celle-ci ?");
+	Sleep(1000);
+	actor.Talk("Tu vas t'ouvrir oui ? *bim*");
+	Sleep(1000);
+	actor.Talk("Bon. Je dois une serrure à l'aubergiste.");
+	
+}

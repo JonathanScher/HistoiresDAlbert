@@ -1,0 +1,12 @@
+#include "scripts\base.inc"
+
+on "LeftClick" 
+{
+	if(!actor.shoes) {
+		actor.Talk("Mes chaussures sont dans le coffre.");
+	} else if(actor.naked) {
+		actor.Talk("Je dois m'habiller avant !");
+	} else {
+		Game.ChangeScene("scenes\taverne_main\taverne_main.scene"); 
+	}
+}

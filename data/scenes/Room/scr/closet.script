@@ -1,0 +1,13 @@
+#include "scripts\base.inc"
+
+on "LeftClick" 
+{
+	if(actor.naked) {
+		actor.GoTo(this.X, this.Y);
+		actor.Talk("Je m'habille.", null, null, null, null);
+		Game.TakeItem("book");
+		actor.naked = false;
+	} else {
+		actor.Talk("Ce n'est vraiment pas le moment de dormir !", null, null, null, null);
+	}
+}

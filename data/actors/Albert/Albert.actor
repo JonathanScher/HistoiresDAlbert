@@ -1,0 +1,90 @@
+; $EDITOR_PROJECT_ROOT_DIR$ ..\..\..\
+
+ACTOR
+{
+  NAME = "Albert"
+  CAPTION=""
+  SCALABLE = TRUE
+  INTERACTIVE = FALSE
+  X = 400
+  Y = 460
+  SCRIPT="actors\Albert\Albert.script"
+
+  FONT = "fonts\outline_red.font"
+
+
+  ANIMATION
+  {
+    NAME       = "idle"
+    
+    LEFT       = "actors\Albert\ll\stand.sprite"
+    RIGHT      = "actors\Albert\rr\stand.sprite"
+    UP         = "actors\Albert\uu\stand.sprite"
+    DOWN       = "actors\Albert\dd\stand.sprite"
+
+    UP_LEFT    = "actors\Albert\ul\stand.sprite"
+    UP_RIGHT   = "actors\Albert\ur\stand.sprite"
+    DOWN_LEFT  = "actors\Albert\dl\stand.sprite"
+    DOWN_RIGHT = "actors\Albert\dr\stand.sprite"
+  }  
+
+  ANIMATION
+  {
+    NAME       = "walk"
+    
+    LEFT       = "actors\Albert\ll\walk.sprite"
+    RIGHT      = "actors\Albert\rr\walk.sprite"
+    UP         = "actors\Albert\uu\walk.sprite"
+    DOWN       = "actors\Albert\dd\walk.sprite"
+
+    UP_LEFT    = "actors\Albert\ul\walk.sprite"
+    UP_RIGHT   = "actors\Albert\ur\walk.sprite"
+    DOWN_LEFT  = "actors\Albert\dl\walk.sprite"
+    DOWN_RIGHT = "actors\Albert\dr\walk.sprite"
+  }
+
+  ANIMATION
+  {
+    NAME       = "talk"
+    
+    LEFT       = "actors\Albert\ll\talk.sprite"
+    RIGHT      = "actors\Albert\rr\talk.sprite"
+    UP         = "actors\Albert\uu\talk.sprite"
+    DOWN       = "actors\Albert\dd\talk.sprite"
+
+    UP_LEFT    = "actors\Albert\ul\talk.sprite"
+    UP_RIGHT   = "actors\Albert\ur\talk.sprite"
+    DOWN_LEFT  = "actors\Albert\dl\talk.sprite"
+    DOWN_RIGHT = "actors\Albert\dr\talk.sprite"
+  }
+
+  ANIMATION
+  {
+    NAME       = "turnleft"
+    
+    LEFT       = "actors\Albert\ll\turn.sprite"
+    RIGHT      = "actors\Albert\rr\turn.sprite"
+    UP         = "actors\Albert\uu\turn.sprite"
+    DOWN       = "actors\Albert\dd\turn.sprite"
+
+    UP_LEFT    = "actors\Albert\ul\turn.sprite"
+    UP_RIGHT   = "actors\Albert\ur\turn.sprite"
+    DOWN_LEFT  = "actors\Albert\dl\turn.sprite"
+    DOWN_RIGHT = "actors\Albert\dr\turn.sprite"
+  }
+  
+  ANIMATION
+  {
+    NAME       = "turnright"
+    
+    LEFT       = "actors\Albert\ll\turn.sprite"
+    RIGHT      = "actors\Albert\rr\turn.sprite"
+    UP         = "actors\Albert\uu\turn.sprite"
+    DOWN       = "actors\Albert\dd\turn.sprite"
+
+    UP_LEFT    = "actors\Albert\ul\turn.sprite"
+    UP_RIGHT   = "actors\Albert\ur\turn.sprite"
+    DOWN_LEFT  = "actors\Albert\dl\turn.sprite"
+    DOWN_RIGHT = "actors\Albert\dr\turn.sprite"
+  }  
+}

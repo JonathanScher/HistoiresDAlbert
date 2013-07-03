@@ -1,0 +1,7 @@
+#include "scripts\base.inc"
+
+
+on "LeftClick" 
+{
+	actor.Talk("Rien sous mon oreiller. Mais qu'est ce que j'ai bien pu faire de mes clés?!", null, null, null, null);
+}

@@ -1,0 +1,36 @@
+#include "scripts\base.inc"
+
+// here comes the stuff which initializes the scene
+
+actor.SkipTo(368, 189);
+actor.Direction = DI_DOWN;
+actor.Active = true;
+
+
+////////////////////////////////////////////////////////////////////////////////
+// scene state
+global Statetaverne_main;
+
+
+// default values
+if(Statetaverne_main==null)
+{
+  Statetaverne_main.Visited = false;
+  // add scene states here
+}
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// setup scene according to state variables
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+if(!Statetaverne_main.Visited)
+{
+  Statetaverne_main.Visited = true;
+
+  // this is our first visit in this scene...
+}
+

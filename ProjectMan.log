@@ -1,0 +1,122 @@
+
+09:09: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+09:09: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:09: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:09: DirectX version: 9.0
+09:09: 
+09:09: Scanning packages...
+09:09:   Registered 0 files in 0 package(s)
+09:09: Initializing scripting engine...
+09:09:   Script compiler bound successfuly
+09:09: Loading plugins...
+09:09:   wme_sample_pixel.dll
+09:09:   wme_snow.dll
+09:09: Scanning packages...
+09:09:   Registered 0 files in 0 package(s)
+09:09: Enumerating Direct3D devices...
+09:09: Enumerating DirectSound devices...
+09:09: Game aspect ratio:    -1.#IND00
+09:09: Monitor aspect ratio: 1.600000
+09:09: Game aspect ratio is the same as monitor aspect ratio.
+09:09: Backup resolution:  0 x 0
+09:09: 
+09:09: Available video devices:
+09:09:   ATI Radeon HD 5800 Series (accelerated)
+09:09:     Driver: aticfx32.dll 8.17.10.1172
+09:09:     Monitor: 0
+09:09: Available audio devices:
+09:09:   Périphérique audio principal
+09:09:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:09:   [no sound]
+09:09: Auto selecting devices for windowed mode:
+09:09:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:09:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:09:   Audio: Périphérique audio principal
+09:09: Maximum texture size: 16384x16384
+09:09: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\HistoiresDAlbert.wpr' -----
+09:09: Scanning packages...
+09:09:   Registered 0 files in 0 package(s)
+09:11: 
+09:11: Shutting down...
+09:11: Shutting down scripting engine
+09:11: ********** DEBUG LOG CLOSED ********************************************
+
+09:12: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+09:12: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:12: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:12: DirectX version: 9.0
+09:12: 
+09:12: Scanning packages...
+09:12:   Registered 0 files in 0 package(s)
+09:12: Initializing scripting engine...
+09:12:   Script compiler bound successfuly
+09:12: Loading plugins...
+09:12:   wme_sample_pixel.dll
+09:12:   wme_snow.dll
+09:12: Scanning packages...
+09:12:   Registered 0 files in 0 package(s)
+09:12: Enumerating Direct3D devices...
+09:12: Enumerating DirectSound devices...
+09:12: Game aspect ratio:    -1.#IND00
+09:12: Monitor aspect ratio: 1.600000
+09:12: Game aspect ratio is the same as monitor aspect ratio.
+09:12: Backup resolution:  0 x 0
+09:12: 
+09:12: Available video devices:
+09:12:   ATI Radeon HD 5800 Series (accelerated)
+09:12:     Driver: aticfx32.dll 8.17.10.1172
+09:12:     Monitor: 0
+09:12: Available audio devices:
+09:12:   Périphérique audio principal
+09:12:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:12:   [no sound]
+09:12: Auto selecting devices for windowed mode:
+09:12:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:12:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:12:   Audio: Périphérique audio principal
+09:12: Maximum texture size: 16384x16384
+09:12: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\HistoiresDAlbert.wpr' -----
+09:12: Scanning packages...
+09:12:   Registered 0 files in 0 package(s)
+12:43: 
+12:43: Shutting down...
+12:43: Shutting down scripting engine
+12:43: ********** DEBUG LOG CLOSED ********************************************
+
+09:43: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:43: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:46:49
+09:43: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:43: DirectX version: 9.0
+09:43: 
+09:43: Scanning packages...
+09:43:   Registered 0 files in 0 package(s)
+09:43: Initializing scripting engine...
+09:43:   Script compiler bound successfuly
+09:43: Loading plugins...
+09:43:   wme_sample_pixel.dll
+09:43:   wme_snow.dll
+09:43: Scanning packages...
+09:43:   Registered 0 files in 0 package(s)
+09:43: Enumerating Direct3D devices...
+09:43: Enumerating DirectSound devices...
+09:43: Game aspect ratio:    -1.#IND00
+09:43: Monitor aspect ratio: 1.600000
+09:43: Game aspect ratio is the same as monitor aspect ratio.
+09:43: Backup resolution:  0 x 0
+09:43: 
+09:43: Available video devices:
+09:43:   ATI Radeon HD 5800 Series (accelerated)
+09:43:     Driver: aticfx32.dll 8.17.10.1172
+09:43:     Monitor: 0
+09:43: Available audio devices:
+09:43:   Périphérique audio principal
+09:43:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:43:   [no sound]
+09:43: Auto selecting devices for windowed mode:
+09:43:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:43:          Windowed:yes  Colors:16bit  T&L:no  Multisample:0
+09:43:   Audio: Périphérique audio principal
+09:43: Maximum texture size: 16384x16384
+09:43: ----- Open file: 'D:\prog\wme\scratch\HistoiresDAlbert\HistoiresDAlbert.wpr' -----
+09:43: Scanning packages...
+09:43:   Registered 0 files in 0 package(s)

@@ -1,0 +1,1273 @@
+
+09:25: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+09:25: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:25: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:25: DirectX version: 9.0
+09:25: 
+09:25: Scanning packages...
+09:25:   Registered 0 files in 0 package(s)
+09:25: Initializing scripting engine...
+09:25:   Script compiler bound successfuly
+09:25: Loading plugins...
+09:25:   wme_sample_pixel.dll
+09:25:   wme_snow.dll
+09:25: Loading string table...
+09:25:   51 strings loaded
+09:25: Enumerating Direct3D devices...
+09:25: Enumerating DirectSound devices...
+09:25: Game aspect ratio:    1.333333
+09:25: Monitor aspect ratio: 1.600000
+09:25: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:25:   -> Considering: 1280 x 768
+09:25:   -> Considering: 1280 x 768
+09:25:   -> Considering: 1280 x 800
+09:25:   -> Considering: 1280 x 800
+09:25:   -> Considering: 1360 x 768
+09:25:   -> Considering: 1360 x 768
+09:25:   -> Considering: 1440 x 900
+09:25:   -> Considering: 1440 x 900
+09:25:   -> Considering: 1600 x 900
+09:25:   -> Considering: 1600 x 900
+09:25:   -> Considering: 1680 x 1050
+09:25:   -> Considering: 1680 x 1050
+09:25: Optimal resolution: 1280 x 768
+09:25: Backup resolution:  1280 x 768
+09:25: 
+09:25: Available video devices:
+09:25:   ATI Radeon HD 5800 Series (accelerated)
+09:25:     Driver: aticfx32.dll 8.17.10.1172
+09:25:     Monitor: 0
+09:25: Available audio devices:
+09:25:   Périphérique audio principal
+09:25:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:25:   [no sound]
+09:25: 
+09:25: User selected:
+09:25:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:25:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:25:   Audio: Périphérique audio principal
+09:25: Maximum texture size: 16384x16384
+09:25: Engine initialized in 53 ms
+09:25: 
+09:26: 
+09:26: Shutting down...
+09:26: Shutting down scripting engine
+09:26: ********** DEBUG LOG CLOSED ********************************************
+
+10:15: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:15: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:15: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:15: DirectX version: 9.0
+10:15: 
+10:15: Scanning packages...
+10:15:   Registered 0 files in 0 package(s)
+10:15: Initializing scripting engine...
+10:15:   Script compiler bound successfuly
+10:15: Loading plugins...
+10:15:   wme_sample_pixel.dll
+10:15:   wme_snow.dll
+10:15: Loading string table...
+10:15:   51 strings loaded
+10:15: Enumerating Direct3D devices...
+10:15: Enumerating DirectSound devices...
+10:15: Game aspect ratio:    1.333333
+10:15: Monitor aspect ratio: 1.600000
+10:15: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:15:   -> Considering: 1280 x 768
+10:15:   -> Considering: 1280 x 768
+10:15:   -> Considering: 1280 x 800
+10:15:   -> Considering: 1280 x 800
+10:15:   -> Considering: 1360 x 768
+10:15:   -> Considering: 1360 x 768
+10:15:   -> Considering: 1440 x 900
+10:15:   -> Considering: 1440 x 900
+10:15:   -> Considering: 1600 x 900
+10:15:   -> Considering: 1600 x 900
+10:15:   -> Considering: 1680 x 1050
+10:15:   -> Considering: 1680 x 1050
+10:15: Optimal resolution: 1280 x 768
+10:15: Backup resolution:  1280 x 768
+10:15: 
+10:15: Available video devices:
+10:15:   ATI Radeon HD 5800 Series (accelerated)
+10:15:     Driver: aticfx32.dll 8.17.10.1172
+10:15:     Monitor: 0
+10:15: Available audio devices:
+10:15:   Périphérique audio principal
+10:15:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:15:   [no sound]
+10:15: 
+10:15: User selected:
+10:15:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:15:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:15:   Audio: Périphérique audio principal
+10:15: Maximum texture size: 16384x16384
+10:15: Engine initialized in 174 ms
+10:15: 
+10:15: 
+10:15: Shutting down...
+10:15: Shutting down scripting engine
+10:15: ********** DEBUG LOG CLOSED ********************************************
+
+10:16: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:16: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:16: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:16: DirectX version: 9.0
+10:16: 
+10:16: Scanning packages...
+10:16:   Registered 0 files in 0 package(s)
+10:16: Initializing scripting engine...
+10:16:   Script compiler bound successfuly
+10:16: Loading plugins...
+10:16:   wme_sample_pixel.dll
+10:16:   wme_snow.dll
+10:16: Loading string table...
+10:16:   51 strings loaded
+10:16: Enumerating Direct3D devices...
+10:16: Enumerating DirectSound devices...
+10:16: Game aspect ratio:    1.333333
+10:16: Monitor aspect ratio: 1.600000
+10:16: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:16:   -> Considering: 1280 x 768
+10:16:   -> Considering: 1280 x 768
+10:16:   -> Considering: 1280 x 800
+10:16:   -> Considering: 1280 x 800
+10:16:   -> Considering: 1360 x 768
+10:16:   -> Considering: 1360 x 768
+10:16:   -> Considering: 1440 x 900
+10:16:   -> Considering: 1440 x 900
+10:16:   -> Considering: 1600 x 900
+10:16:   -> Considering: 1600 x 900
+10:16:   -> Considering: 1680 x 1050
+10:16:   -> Considering: 1680 x 1050
+10:16: Optimal resolution: 1280 x 768
+10:16: Backup resolution:  1280 x 768
+10:16: 
+10:16: Available video devices:
+10:16:   ATI Radeon HD 5800 Series (accelerated)
+10:16:     Driver: aticfx32.dll 8.17.10.1172
+10:16:     Monitor: 0
+10:16: Available audio devices:
+10:16:   Périphérique audio principal
+10:16:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:16:   [no sound]
+10:16: 
+10:16: User selected:
+10:16:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:16:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:16:   Audio: Périphérique audio principal
+10:16: Maximum texture size: 16384x16384
+10:16: Engine initialized in 36 ms
+10:16: 
+10:17: 
+10:17: Shutting down...
+10:17: Shutting down scripting engine
+10:17: ********** DEBUG LOG CLOSED ********************************************
+
+10:34: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:34: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:34: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:34: DirectX version: 9.0
+10:34: 
+10:34: Scanning packages...
+10:34:   Registered 0 files in 0 package(s)
+10:34: Initializing scripting engine...
+10:34:   Script compiler bound successfuly
+10:34: Loading plugins...
+10:34:   wme_sample_pixel.dll
+10:34:   wme_snow.dll
+10:34: Loading string table...
+10:34:   51 strings loaded
+10:34: Enumerating Direct3D devices...
+10:34: Enumerating DirectSound devices...
+10:34: Game aspect ratio:    1.333333
+10:34: Monitor aspect ratio: 1.600000
+10:34: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:34:   -> Considering: 1280 x 768
+10:34:   -> Considering: 1280 x 768
+10:34:   -> Considering: 1280 x 800
+10:34:   -> Considering: 1280 x 800
+10:34:   -> Considering: 1360 x 768
+10:34:   -> Considering: 1360 x 768
+10:34:   -> Considering: 1440 x 900
+10:34:   -> Considering: 1440 x 900
+10:34:   -> Considering: 1600 x 900
+10:34:   -> Considering: 1600 x 900
+10:34:   -> Considering: 1680 x 1050
+10:34:   -> Considering: 1680 x 1050
+10:34: Optimal resolution: 1280 x 768
+10:34: Backup resolution:  1280 x 768
+10:34: 
+10:34: Available video devices:
+10:34:   ATI Radeon HD 5800 Series (accelerated)
+10:34:     Driver: aticfx32.dll 8.17.10.1172
+10:34:     Monitor: 0
+10:34: Available audio devices:
+10:34:   Périphérique audio principal
+10:34:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:34:   [no sound]
+10:34: 
+10:34: User selected:
+10:34:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:34:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:34:   Audio: Périphérique audio principal
+10:34: Maximum texture size: 16384x16384
+10:34: Engine initialized in 49 ms
+10:34: 
+10:35: 
+10:35: Shutting down...
+10:35: Shutting down scripting engine
+10:35: ********** DEBUG LOG CLOSED ********************************************
+
+10:35: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:35: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:35: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:35: DirectX version: 9.0
+10:35: 
+10:35: Scanning packages...
+10:35:   Registered 0 files in 0 package(s)
+10:35: Initializing scripting engine...
+10:35:   Script compiler bound successfuly
+10:35: Loading plugins...
+10:35:   wme_sample_pixel.dll
+10:35:   wme_snow.dll
+10:35: Loading string table...
+10:35:   51 strings loaded
+10:35: Enumerating Direct3D devices...
+10:35: Enumerating DirectSound devices...
+10:35: Game aspect ratio:    1.333333
+10:35: Monitor aspect ratio: 1.600000
+10:35: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:35:   -> Considering: 1280 x 768
+10:35:   -> Considering: 1280 x 768
+10:35:   -> Considering: 1280 x 800
+10:35:   -> Considering: 1280 x 800
+10:35:   -> Considering: 1360 x 768
+10:35:   -> Considering: 1360 x 768
+10:35:   -> Considering: 1440 x 900
+10:35:   -> Considering: 1440 x 900
+10:35:   -> Considering: 1600 x 900
+10:35:   -> Considering: 1600 x 900
+10:35:   -> Considering: 1680 x 1050
+10:35:   -> Considering: 1680 x 1050
+10:35: Optimal resolution: 1280 x 768
+10:35: Backup resolution:  1280 x 768
+10:35: 
+10:35: Available video devices:
+10:35:   ATI Radeon HD 5800 Series (accelerated)
+10:35:     Driver: aticfx32.dll 8.17.10.1172
+10:35:     Monitor: 0
+10:35: Available audio devices:
+10:35:   Périphérique audio principal
+10:35:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:35:   [no sound]
+10:35: 
+10:35: User selected:
+10:35:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:35:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:35:   Audio: Périphérique audio principal
+10:35: Maximum texture size: 16384x16384
+10:35: Engine initialized in 36 ms
+10:35: 
+10:36: 
+10:36: Shutting down...
+10:36: Shutting down scripting engine
+10:36: ********** DEBUG LOG CLOSED ********************************************
+
+10:39: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:39: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:39: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:39: DirectX version: 9.0
+10:39: 
+10:39: Scanning packages...
+10:39:   Registered 0 files in 0 package(s)
+10:39: Initializing scripting engine...
+10:39:   Script compiler bound successfuly
+10:39: Loading plugins...
+10:39:   wme_sample_pixel.dll
+10:39:   wme_snow.dll
+10:39: Loading string table...
+10:39:   51 strings loaded
+10:39: Enumerating Direct3D devices...
+10:39: Enumerating DirectSound devices...
+10:39: Game aspect ratio:    1.333333
+10:39: Monitor aspect ratio: 1.600000
+10:39: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:39:   -> Considering: 1280 x 768
+10:39:   -> Considering: 1280 x 768
+10:39:   -> Considering: 1280 x 800
+10:39:   -> Considering: 1280 x 800
+10:39:   -> Considering: 1360 x 768
+10:39:   -> Considering: 1360 x 768
+10:39:   -> Considering: 1440 x 900
+10:39:   -> Considering: 1440 x 900
+10:39:   -> Considering: 1600 x 900
+10:39:   -> Considering: 1600 x 900
+10:39:   -> Considering: 1680 x 1050
+10:39:   -> Considering: 1680 x 1050
+10:39: Optimal resolution: 1280 x 768
+10:39: Backup resolution:  1280 x 768
+10:39: 
+10:39: Available video devices:
+10:39:   ATI Radeon HD 5800 Series (accelerated)
+10:39:     Driver: aticfx32.dll 8.17.10.1172
+10:39:     Monitor: 0
+10:39: Available audio devices:
+10:39:   Périphérique audio principal
+10:39:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:39:   [no sound]
+10:39: 
+10:39: User selected:
+10:39:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:39:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:39:   Audio: Périphérique audio principal
+10:39: Maximum texture size: 16384x16384
+10:39: Engine initialized in 43 ms
+10:39: 
+10:40: 
+10:40: Shutting down...
+10:40: Shutting down scripting engine
+10:40: ********** DEBUG LOG CLOSED ********************************************
+
+10:43: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:43: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:43: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:43: DirectX version: 9.0
+10:43: 
+10:43: Scanning packages...
+10:43:   Registered 0 files in 0 package(s)
+10:43: Initializing scripting engine...
+10:43:   Script compiler bound successfuly
+10:43: Loading plugins...
+10:43:   wme_sample_pixel.dll
+10:43:   wme_snow.dll
+10:43: Loading string table...
+10:43:   51 strings loaded
+10:43: Enumerating Direct3D devices...
+10:43: Enumerating DirectSound devices...
+10:43: Game aspect ratio:    1.333333
+10:43: Monitor aspect ratio: 1.600000
+10:43: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:43:   -> Considering: 1280 x 768
+10:43:   -> Considering: 1280 x 768
+10:43:   -> Considering: 1280 x 800
+10:43:   -> Considering: 1280 x 800
+10:43:   -> Considering: 1360 x 768
+10:43:   -> Considering: 1360 x 768
+10:43:   -> Considering: 1440 x 900
+10:43:   -> Considering: 1440 x 900
+10:43:   -> Considering: 1600 x 900
+10:43:   -> Considering: 1600 x 900
+10:43:   -> Considering: 1680 x 1050
+10:43:   -> Considering: 1680 x 1050
+10:43: Optimal resolution: 1280 x 768
+10:43: Backup resolution:  1280 x 768
+10:43: 
+10:43: Available video devices:
+10:43:   ATI Radeon HD 5800 Series (accelerated)
+10:43:     Driver: aticfx32.dll 8.17.10.1172
+10:43:     Monitor: 0
+10:43: Available audio devices:
+10:43:   Périphérique audio principal
+10:43:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:43:   [no sound]
+10:43: 
+10:43: User selected:
+10:43:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:43:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:43:   Audio: Périphérique audio principal
+10:43: Maximum texture size: 16384x16384
+10:43: Engine initialized in 37 ms
+10:43: 
+10:44: 
+10:44: Shutting down...
+10:44: Shutting down scripting engine
+10:44: ********** DEBUG LOG CLOSED ********************************************
+
+10:45: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:45: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:45: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:45: DirectX version: 9.0
+10:45: 
+10:45: Scanning packages...
+10:45:   Registered 0 files in 0 package(s)
+10:45: Initializing scripting engine...
+10:45:   Script compiler bound successfuly
+10:45: Loading plugins...
+10:45:   wme_sample_pixel.dll
+10:45:   wme_snow.dll
+10:45: Loading string table...
+10:45:   51 strings loaded
+10:45: Enumerating Direct3D devices...
+10:45: Enumerating DirectSound devices...
+10:45: Game aspect ratio:    1.333333
+10:45: Monitor aspect ratio: 1.600000
+10:45: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:45:   -> Considering: 1280 x 768
+10:45:   -> Considering: 1280 x 768
+10:45:   -> Considering: 1280 x 800
+10:45:   -> Considering: 1280 x 800
+10:45:   -> Considering: 1360 x 768
+10:45:   -> Considering: 1360 x 768
+10:45:   -> Considering: 1440 x 900
+10:45:   -> Considering: 1440 x 900
+10:45:   -> Considering: 1600 x 900
+10:45:   -> Considering: 1600 x 900
+10:45:   -> Considering: 1680 x 1050
+10:45:   -> Considering: 1680 x 1050
+10:45: Optimal resolution: 1280 x 768
+10:45: Backup resolution:  1280 x 768
+10:45: 
+10:45: Available video devices:
+10:45:   ATI Radeon HD 5800 Series (accelerated)
+10:45:     Driver: aticfx32.dll 8.17.10.1172
+10:45:     Monitor: 0
+10:45: Available audio devices:
+10:45:   Périphérique audio principal
+10:45:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:45:   [no sound]
+10:45: 
+10:45: User selected:
+10:45:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:45:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:45:   Audio: Périphérique audio principal
+10:45: Maximum texture size: 16384x16384
+10:45: Engine initialized in 47 ms
+10:45: 
+10:45: 
+10:45: Shutting down...
+10:45: Shutting down scripting engine
+10:45: ********** DEBUG LOG CLOSED ********************************************
+
+10:47: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:47: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:47: DirectX version: 9.0
+10:47: 
+10:47: Scanning packages...
+10:47:   Registered 0 files in 0 package(s)
+10:47: Initializing scripting engine...
+10:47:   Script compiler bound successfuly
+10:47: Loading plugins...
+10:47:   wme_sample_pixel.dll
+10:47:   wme_snow.dll
+10:47: Loading string table...
+10:47:   51 strings loaded
+10:47: Enumerating Direct3D devices...
+10:47: Enumerating DirectSound devices...
+10:47: Game aspect ratio:    1.333333
+10:47: Monitor aspect ratio: 1.600000
+10:47: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:47:   -> Considering: 1280 x 768
+10:47:   -> Considering: 1280 x 768
+10:47:   -> Considering: 1280 x 800
+10:47:   -> Considering: 1280 x 800
+10:47:   -> Considering: 1360 x 768
+10:47:   -> Considering: 1360 x 768
+10:47:   -> Considering: 1440 x 900
+10:47:   -> Considering: 1440 x 900
+10:47:   -> Considering: 1600 x 900
+10:47:   -> Considering: 1600 x 900
+10:47:   -> Considering: 1680 x 1050
+10:47:   -> Considering: 1680 x 1050
+10:47: Optimal resolution: 1280 x 768
+10:47: Backup resolution:  1280 x 768
+10:47: 
+10:47: Available video devices:
+10:47:   ATI Radeon HD 5800 Series (accelerated)
+10:47:     Driver: aticfx32.dll 8.17.10.1172
+10:47:     Monitor: 0
+10:47: Available audio devices:
+10:47:   Périphérique audio principal
+10:47:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:47:   [no sound]
+10:47: 
+10:47: User selected:
+10:47:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:47:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:47:   Audio: Périphérique audio principal
+10:47: Maximum texture size: 16384x16384
+10:47: Engine initialized in 53 ms
+10:47: 
+10:47: 
+10:47: Shutting down...
+10:47: Shutting down scripting engine
+10:47: ********** DEBUG LOG CLOSED ********************************************
+
+10:52: ********** DEBUG LOG OPENED 01-07-2013 (Release Build) *****************
+10:52: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:52: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:52: DirectX version: 9.0
+10:52: 
+10:52: Scanning packages...
+10:52:   Registered 0 files in 0 package(s)
+10:52: Initializing scripting engine...
+10:52:   Script compiler bound successfuly
+10:52: Loading plugins...
+10:52:   wme_sample_pixel.dll
+10:52:   wme_snow.dll
+10:52: Loading string table...
+10:52:   51 strings loaded
+10:52: Enumerating Direct3D devices...
+10:52: Enumerating DirectSound devices...
+10:52: Game aspect ratio:    1.333333
+10:52: Monitor aspect ratio: 1.600000
+10:52: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:52:   -> Considering: 1280 x 768
+10:52:   -> Considering: 1280 x 768
+10:52:   -> Considering: 1280 x 800
+10:52:   -> Considering: 1280 x 800
+10:52:   -> Considering: 1360 x 768
+10:52:   -> Considering: 1360 x 768
+10:52:   -> Considering: 1440 x 900
+10:52:   -> Considering: 1440 x 900
+10:52:   -> Considering: 1600 x 900
+10:52:   -> Considering: 1600 x 900
+10:52:   -> Considering: 1680 x 1050
+10:52:   -> Considering: 1680 x 1050
+10:52: Optimal resolution: 1280 x 768
+10:52: Backup resolution:  1280 x 768
+10:52: 
+10:52: Available video devices:
+10:52:   ATI Radeon HD 5800 Series (accelerated)
+10:52:     Driver: aticfx32.dll 8.17.10.1172
+10:52:     Monitor: 0
+10:52: Available audio devices:
+10:52:   Périphérique audio principal
+10:52:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:52:   [no sound]
+10:52: 
+10:52: User selected:
+10:52:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:52:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:52:   Audio: Périphérique audio principal
+10:52: Maximum texture size: 16384x16384
+10:52: Engine initialized in 43 ms
+10:52: 
+10:53: 
+10:53: Shutting down...
+10:53: Shutting down scripting engine
+10:53: ********** DEBUG LOG CLOSED ********************************************
+
+09:46: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:46: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:46: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:46: DirectX version: 9.0
+09:46: 
+09:46: Scanning packages...
+09:46:   Registered 0 files in 0 package(s)
+09:46: Initializing scripting engine...
+09:46:   Script compiler bound successfuly
+09:46: Loading plugins...
+09:46:   wme_sample_pixel.dll
+09:46:   wme_snow.dll
+09:46: Loading string table...
+09:46:   51 strings loaded
+09:46: Enumerating Direct3D devices...
+09:46: Enumerating DirectSound devices...
+09:46: Game aspect ratio:    1.333333
+09:46: Monitor aspect ratio: 1.600000
+09:46: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:46:   -> Considering: 1280 x 768
+09:46:   -> Considering: 1280 x 768
+09:46:   -> Considering: 1280 x 800
+09:46:   -> Considering: 1280 x 800
+09:46:   -> Considering: 1360 x 768
+09:46:   -> Considering: 1360 x 768
+09:46:   -> Considering: 1440 x 900
+09:46:   -> Considering: 1440 x 900
+09:46:   -> Considering: 1600 x 900
+09:46:   -> Considering: 1600 x 900
+09:46:   -> Considering: 1680 x 1050
+09:46:   -> Considering: 1680 x 1050
+09:46: Optimal resolution: 1280 x 768
+09:46: Backup resolution:  1280 x 768
+09:46: 
+09:46: Available video devices:
+09:46:   ATI Radeon HD 5800 Series (accelerated)
+09:46:     Driver: aticfx32.dll 8.17.10.1172
+09:46:     Monitor: 0
+09:46: Available audio devices:
+09:46:   Périphérique audio principal
+09:46:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:46:   [no sound]
+09:46: 
+09:46: User selected:
+09:46:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:46:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:46:   Audio: Périphérique audio principal
+09:46: Maximum texture size: 16384x16384
+09:46: Engine initialized in 166 ms
+09:46: 
+09:46: Compiling script 'scenes\Room\scr\door.script'...
+09:46:   Error@line 7: syntax error
+09:47: 
+09:47: Shutting down...
+09:47: Shutting down scripting engine
+09:47: ********** DEBUG LOG CLOSED ********************************************
+
+09:47: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:47: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:47: DirectX version: 9.0
+09:47: 
+09:47: Scanning packages...
+09:47:   Registered 0 files in 0 package(s)
+09:47: Initializing scripting engine...
+09:47:   Script compiler bound successfuly
+09:47: Loading plugins...
+09:47:   wme_sample_pixel.dll
+09:47:   wme_snow.dll
+09:47: Loading string table...
+09:47:   51 strings loaded
+09:47: Enumerating Direct3D devices...
+09:47: Enumerating DirectSound devices...
+09:47: Game aspect ratio:    1.333333
+09:47: Monitor aspect ratio: 1.600000
+09:47: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:47:   -> Considering: 1280 x 768
+09:47:   -> Considering: 1280 x 768
+09:47:   -> Considering: 1280 x 800
+09:47:   -> Considering: 1280 x 800
+09:47:   -> Considering: 1360 x 768
+09:47:   -> Considering: 1360 x 768
+09:47:   -> Considering: 1440 x 900
+09:47:   -> Considering: 1440 x 900
+09:47:   -> Considering: 1600 x 900
+09:47:   -> Considering: 1600 x 900
+09:47:   -> Considering: 1680 x 1050
+09:47:   -> Considering: 1680 x 1050
+09:47: Optimal resolution: 1280 x 768
+09:47: Backup resolution:  1280 x 768
+09:47: 
+09:47: Available video devices:
+09:47:   ATI Radeon HD 5800 Series (accelerated)
+09:47:     Driver: aticfx32.dll 8.17.10.1172
+09:47:     Monitor: 0
+09:47: Available audio devices:
+09:47:   Périphérique audio principal
+09:47:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:47:   [no sound]
+09:47: 
+09:47: User selected:
+09:47:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:47:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:47:   Audio: Périphérique audio principal
+09:47: Maximum texture size: 16384x16384
+09:47: Engine initialized in 54 ms
+09:47: 
+09:47: 
+09:47: Shutting down...
+09:47: Shutting down scripting engine
+09:47: ********** DEBUG LOG CLOSED ********************************************
+
+09:50: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:50: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:50: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:50: DirectX version: 9.0
+09:50: 
+09:50: Scanning packages...
+09:50:   Registered 0 files in 0 package(s)
+09:50: Initializing scripting engine...
+09:50:   Script compiler bound successfuly
+09:50: Loading plugins...
+09:50:   wme_sample_pixel.dll
+09:50:   wme_snow.dll
+09:50: Loading string table...
+09:50:   51 strings loaded
+09:50: Enumerating Direct3D devices...
+09:50: Enumerating DirectSound devices...
+09:50: Game aspect ratio:    1.333333
+09:50: Monitor aspect ratio: 1.600000
+09:50: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:50:   -> Considering: 1280 x 768
+09:50:   -> Considering: 1280 x 768
+09:50:   -> Considering: 1280 x 800
+09:50:   -> Considering: 1280 x 800
+09:50:   -> Considering: 1360 x 768
+09:50:   -> Considering: 1360 x 768
+09:50:   -> Considering: 1440 x 900
+09:50:   -> Considering: 1440 x 900
+09:50:   -> Considering: 1600 x 900
+09:50:   -> Considering: 1600 x 900
+09:50:   -> Considering: 1680 x 1050
+09:50:   -> Considering: 1680 x 1050
+09:50: Optimal resolution: 1280 x 768
+09:50: Backup resolution:  1280 x 768
+09:50: 
+09:50: Available video devices:
+09:50:   ATI Radeon HD 5800 Series (accelerated)
+09:50:     Driver: aticfx32.dll 8.17.10.1172
+09:50:     Monitor: 0
+09:50: Available audio devices:
+09:50:   Périphérique audio principal
+09:50:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:50:   [no sound]
+09:50: 
+09:50: User selected:
+09:50:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:50:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:50:   Audio: Périphérique audio principal
+09:50: Maximum texture size: 16384x16384
+09:50: Engine initialized in 44 ms
+09:50: 
+09:50: Runtime error. Script 'scenes\Room\scr\closet.script', line 6
+09:50:   Call to undefined method 'WalkToDirection'. Ignored.
+09:50: 
+09:50: Shutting down...
+09:50: Shutting down scripting engine
+09:50: ********** DEBUG LOG CLOSED ********************************************
+
+09:51: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:51: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:51: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:51: DirectX version: 9.0
+09:51: 
+09:51: Scanning packages...
+09:51:   Registered 0 files in 0 package(s)
+09:51: Initializing scripting engine...
+09:51:   Script compiler bound successfuly
+09:51: Loading plugins...
+09:51:   wme_sample_pixel.dll
+09:51:   wme_snow.dll
+09:51: Loading string table...
+09:51:   51 strings loaded
+09:51: Enumerating Direct3D devices...
+09:51: Enumerating DirectSound devices...
+09:51: Game aspect ratio:    1.333333
+09:51: Monitor aspect ratio: 1.600000
+09:51: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:51:   -> Considering: 1280 x 768
+09:51:   -> Considering: 1280 x 768
+09:51:   -> Considering: 1280 x 800
+09:51:   -> Considering: 1280 x 800
+09:51:   -> Considering: 1360 x 768
+09:51:   -> Considering: 1360 x 768
+09:51:   -> Considering: 1440 x 900
+09:51:   -> Considering: 1440 x 900
+09:51:   -> Considering: 1600 x 900
+09:51:   -> Considering: 1600 x 900
+09:51:   -> Considering: 1680 x 1050
+09:51:   -> Considering: 1680 x 1050
+09:51: Optimal resolution: 1280 x 768
+09:51: Backup resolution:  1280 x 768
+09:51: 
+09:51: Available video devices:
+09:51:   ATI Radeon HD 5800 Series (accelerated)
+09:51:     Driver: aticfx32.dll 8.17.10.1172
+09:51:     Monitor: 0
+09:51: Available audio devices:
+09:51:   Périphérique audio principal
+09:51:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:51:   [no sound]
+09:51: 
+09:51: User selected:
+09:51:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:51:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:51:   Audio: Périphérique audio principal
+09:51: Maximum texture size: 16384x16384
+09:51: Engine initialized in 53 ms
+09:51: 
+09:51: 
+09:51: Shutting down...
+09:51: Shutting down scripting engine
+09:51: ********** DEBUG LOG CLOSED ********************************************
+
+09:52: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:52: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:52: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:52: DirectX version: 9.0
+09:52: 
+09:52: Scanning packages...
+09:52:   Registered 0 files in 0 package(s)
+09:52: Initializing scripting engine...
+09:52:   Script compiler bound successfuly
+09:52: Loading plugins...
+09:52:   wme_sample_pixel.dll
+09:52:   wme_snow.dll
+09:52: Loading string table...
+09:52:   51 strings loaded
+09:52: Enumerating Direct3D devices...
+09:52: Enumerating DirectSound devices...
+09:52: Game aspect ratio:    1.333333
+09:52: Monitor aspect ratio: 1.600000
+09:52: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:52:   -> Considering: 1280 x 768
+09:52:   -> Considering: 1280 x 768
+09:52:   -> Considering: 1280 x 800
+09:52:   -> Considering: 1280 x 800
+09:52:   -> Considering: 1360 x 768
+09:52:   -> Considering: 1360 x 768
+09:52:   -> Considering: 1440 x 900
+09:52:   -> Considering: 1440 x 900
+09:52:   -> Considering: 1600 x 900
+09:52:   -> Considering: 1600 x 900
+09:52:   -> Considering: 1680 x 1050
+09:52:   -> Considering: 1680 x 1050
+09:52: Optimal resolution: 1280 x 768
+09:52: Backup resolution:  1280 x 768
+09:52: 
+09:52: Available video devices:
+09:52:   ATI Radeon HD 5800 Series (accelerated)
+09:52:     Driver: aticfx32.dll 8.17.10.1172
+09:52:     Monitor: 0
+09:52: Available audio devices:
+09:52:   Périphérique audio principal
+09:52:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:52:   [no sound]
+09:52: 
+09:52: User selected:
+09:52:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:52:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:52:   Audio: Périphérique audio principal
+09:52: Maximum texture size: 16384x16384
+09:52: Engine initialized in 57 ms
+09:52: 
+09:53: 
+09:53: Shutting down...
+09:53: Shutting down scripting engine
+09:53: ********** DEBUG LOG CLOSED ********************************************
+
+09:54: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:54: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:54: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:54: DirectX version: 9.0
+09:54: 
+09:54: Scanning packages...
+09:54:   Registered 0 files in 0 package(s)
+09:54: Initializing scripting engine...
+09:54:   Script compiler bound successfuly
+09:54: Loading plugins...
+09:54:   wme_sample_pixel.dll
+09:54:   wme_snow.dll
+09:54: Loading string table...
+09:54:   51 strings loaded
+09:54: Enumerating Direct3D devices...
+09:54: Enumerating DirectSound devices...
+09:54: Game aspect ratio:    1.333333
+09:54: Monitor aspect ratio: 1.600000
+09:54: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:54:   -> Considering: 1280 x 768
+09:54:   -> Considering: 1280 x 768
+09:54:   -> Considering: 1280 x 800
+09:54:   -> Considering: 1280 x 800
+09:54:   -> Considering: 1360 x 768
+09:54:   -> Considering: 1360 x 768
+09:54:   -> Considering: 1440 x 900
+09:54:   -> Considering: 1440 x 900
+09:54:   -> Considering: 1600 x 900
+09:54:   -> Considering: 1600 x 900
+09:54:   -> Considering: 1680 x 1050
+09:54:   -> Considering: 1680 x 1050
+09:54: Optimal resolution: 1280 x 768
+09:54: Backup resolution:  1280 x 768
+09:54: 
+09:54: Available video devices:
+09:54:   ATI Radeon HD 5800 Series (accelerated)
+09:54:     Driver: aticfx32.dll 8.17.10.1172
+09:54:     Monitor: 0
+09:54: Available audio devices:
+09:54:   Périphérique audio principal
+09:54:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:54:   [no sound]
+09:54: 
+09:54: User selected:
+09:54:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:54:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:54:   Audio: Périphérique audio principal
+09:54: Maximum texture size: 16384x16384
+09:54: Engine initialized in 37 ms
+09:54: 
+09:54: 
+09:54: Shutting down...
+09:54: Shutting down scripting engine
+09:54: ********** DEBUG LOG CLOSED ********************************************
+
+09:55: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+09:55: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+09:55: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+09:55: DirectX version: 9.0
+09:55: 
+09:55: Scanning packages...
+09:55:   Registered 0 files in 0 package(s)
+09:55: Initializing scripting engine...
+09:55:   Script compiler bound successfuly
+09:55: Loading plugins...
+09:55:   wme_sample_pixel.dll
+09:55:   wme_snow.dll
+09:55: Loading string table...
+09:55:   51 strings loaded
+09:55: Enumerating Direct3D devices...
+09:55: Enumerating DirectSound devices...
+09:55: Game aspect ratio:    1.333333
+09:55: Monitor aspect ratio: 1.600000
+09:55: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+09:55:   -> Considering: 1280 x 768
+09:55:   -> Considering: 1280 x 768
+09:55:   -> Considering: 1280 x 800
+09:55:   -> Considering: 1280 x 800
+09:55:   -> Considering: 1360 x 768
+09:55:   -> Considering: 1360 x 768
+09:55:   -> Considering: 1440 x 900
+09:55:   -> Considering: 1440 x 900
+09:55:   -> Considering: 1600 x 900
+09:55:   -> Considering: 1600 x 900
+09:55:   -> Considering: 1680 x 1050
+09:55:   -> Considering: 1680 x 1050
+09:55: Optimal resolution: 1280 x 768
+09:55: Backup resolution:  1280 x 768
+09:55: 
+09:55: Available video devices:
+09:55:   ATI Radeon HD 5800 Series (accelerated)
+09:55:     Driver: aticfx32.dll 8.17.10.1172
+09:55:     Monitor: 0
+09:55: Available audio devices:
+09:55:   Périphérique audio principal
+09:55:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+09:55:   [no sound]
+09:55: 
+09:55: User selected:
+09:55:   Video: ATI Radeon HD 5800 Series (accelerated)
+09:55:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+09:55:   Audio: Périphérique audio principal
+09:55: Maximum texture size: 16384x16384
+09:55: Engine initialized in 36 ms
+09:55: 
+09:56: 
+09:56: Shutting down...
+09:56: Shutting down scripting engine
+09:56: ********** DEBUG LOG CLOSED ********************************************
+
+10:29: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:29: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:29: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:29: DirectX version: 9.0
+10:29: 
+10:29: Scanning packages...
+10:29:   Registered 0 files in 0 package(s)
+10:29: Initializing scripting engine...
+10:29:   Script compiler bound successfuly
+10:29: Loading plugins...
+10:29:   wme_sample_pixel.dll
+10:29:   wme_snow.dll
+10:29: Loading string table...
+10:29:   51 strings loaded
+10:29: Enumerating Direct3D devices...
+10:29: Enumerating DirectSound devices...
+10:29: Game aspect ratio:    1.333333
+10:29: Monitor aspect ratio: 1.600000
+10:29: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:29:   -> Considering: 1280 x 768
+10:29:   -> Considering: 1280 x 768
+10:29:   -> Considering: 1280 x 800
+10:29:   -> Considering: 1280 x 800
+10:29:   -> Considering: 1360 x 768
+10:29:   -> Considering: 1360 x 768
+10:29:   -> Considering: 1440 x 900
+10:29:   -> Considering: 1440 x 900
+10:29:   -> Considering: 1600 x 900
+10:29:   -> Considering: 1600 x 900
+10:29:   -> Considering: 1680 x 1050
+10:29:   -> Considering: 1680 x 1050
+10:29: Optimal resolution: 1280 x 768
+10:29: Backup resolution:  1280 x 768
+10:29: 
+10:29: Available video devices:
+10:29:   ATI Radeon HD 5800 Series (accelerated)
+10:29:     Driver: aticfx32.dll 8.17.10.1172
+10:29:     Monitor: 0
+10:29: Available audio devices:
+10:29:   Périphérique audio principal
+10:29:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:29:   [no sound]
+10:29: 
+10:29: User selected:
+10:29:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:29:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:29:   Audio: Périphérique audio principal
+10:29: Maximum texture size: 16384x16384
+10:29: Engine initialized in 64 ms
+10:29: 
+10:30: 
+10:30: Shutting down...
+10:30: Shutting down scripting engine
+10:30: ********** DEBUG LOG CLOSED ********************************************
+
+10:36: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:36: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:36: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:36: DirectX version: 9.0
+10:36: 
+10:36: Scanning packages...
+10:36:   Registered 0 files in 0 package(s)
+10:36: Initializing scripting engine...
+10:36:   Script compiler bound successfuly
+10:36: Loading plugins...
+10:36:   wme_sample_pixel.dll
+10:36:   wme_snow.dll
+10:36: Loading string table...
+10:36:   51 strings loaded
+10:36: Enumerating Direct3D devices...
+10:36: Enumerating DirectSound devices...
+10:36: Game aspect ratio:    1.333333
+10:36: Monitor aspect ratio: 1.600000
+10:36: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:36:   -> Considering: 1280 x 768
+10:36:   -> Considering: 1280 x 768
+10:36:   -> Considering: 1280 x 800
+10:36:   -> Considering: 1280 x 800
+10:36:   -> Considering: 1360 x 768
+10:36:   -> Considering: 1360 x 768
+10:36:   -> Considering: 1440 x 900
+10:36:   -> Considering: 1440 x 900
+10:36:   -> Considering: 1600 x 900
+10:36:   -> Considering: 1600 x 900
+10:36:   -> Considering: 1680 x 1050
+10:36:   -> Considering: 1680 x 1050
+10:36: Optimal resolution: 1280 x 768
+10:36: Backup resolution:  1280 x 768
+10:36: 
+10:36: Available video devices:
+10:36:   ATI Radeon HD 5800 Series (accelerated)
+10:36:     Driver: aticfx32.dll 8.17.10.1172
+10:36:     Monitor: 0
+10:36: Available audio devices:
+10:36:   Périphérique audio principal
+10:36:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:36:   [no sound]
+10:36: 
+10:36: User selected:
+10:36:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:36:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:36:   Audio: Périphérique audio principal
+10:36: Maximum texture size: 16384x16384
+10:36: Engine initialized in 42 ms
+10:36: 
+10:36: 
+10:36: Shutting down...
+10:36: Shutting down scripting engine
+10:36: ********** DEBUG LOG CLOSED ********************************************
+
+10:40: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:40: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:40: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:40: DirectX version: 9.0
+10:40: 
+10:40: Scanning packages...
+10:40:   Registered 0 files in 0 package(s)
+10:40: Initializing scripting engine...
+10:40:   Script compiler bound successfuly
+10:40: Loading plugins...
+10:40:   wme_sample_pixel.dll
+10:40:   wme_snow.dll
+10:40: Loading string table...
+10:40:   51 strings loaded
+10:40: Enumerating Direct3D devices...
+10:40: Enumerating DirectSound devices...
+10:40: Game aspect ratio:    1.333333
+10:40: Monitor aspect ratio: 1.600000
+10:40: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:40:   -> Considering: 1280 x 768
+10:40:   -> Considering: 1280 x 768
+10:40:   -> Considering: 1280 x 800
+10:40:   -> Considering: 1280 x 800
+10:40:   -> Considering: 1360 x 768
+10:40:   -> Considering: 1360 x 768
+10:40:   -> Considering: 1440 x 900
+10:40:   -> Considering: 1440 x 900
+10:40:   -> Considering: 1600 x 900
+10:40:   -> Considering: 1600 x 900
+10:40:   -> Considering: 1680 x 1050
+10:40:   -> Considering: 1680 x 1050
+10:40: Optimal resolution: 1280 x 768
+10:40: Backup resolution:  1280 x 768
+10:40: 
+10:40: Available video devices:
+10:40:   ATI Radeon HD 5800 Series (accelerated)
+10:40:     Driver: aticfx32.dll 8.17.10.1172
+10:40:     Monitor: 0
+10:40: Available audio devices:
+10:40:   Périphérique audio principal
+10:40:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:40:   [no sound]
+10:40: 
+10:40: User selected:
+10:40:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:40:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:40:   Audio: Périphérique audio principal
+10:40: Maximum texture size: 16384x16384
+10:40: Engine initialized in 53 ms
+10:40: 
+10:41: 
+10:41: Shutting down...
+10:41: Shutting down scripting engine
+10:41: ********** DEBUG LOG CLOSED ********************************************
+
+10:42: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:42: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:42: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:42: DirectX version: 9.0
+10:42: 
+10:42: Scanning packages...
+10:42:   Registered 0 files in 0 package(s)
+10:42: Initializing scripting engine...
+10:42:   Script compiler bound successfuly
+10:42: Loading plugins...
+10:42:   wme_sample_pixel.dll
+10:42:   wme_snow.dll
+10:42: Loading string table...
+10:42:   51 strings loaded
+10:42: Enumerating Direct3D devices...
+10:42: Enumerating DirectSound devices...
+10:42: Game aspect ratio:    1.333333
+10:42: Monitor aspect ratio: 1.600000
+10:42: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:42:   -> Considering: 1280 x 768
+10:42:   -> Considering: 1280 x 768
+10:42:   -> Considering: 1280 x 800
+10:42:   -> Considering: 1280 x 800
+10:42:   -> Considering: 1360 x 768
+10:42:   -> Considering: 1360 x 768
+10:42:   -> Considering: 1440 x 900
+10:42:   -> Considering: 1440 x 900
+10:42:   -> Considering: 1600 x 900
+10:42:   -> Considering: 1600 x 900
+10:42:   -> Considering: 1680 x 1050
+10:42:   -> Considering: 1680 x 1050
+10:42: Optimal resolution: 1280 x 768
+10:42: Backup resolution:  1280 x 768
+10:42: 
+10:42: Available video devices:
+10:42:   ATI Radeon HD 5800 Series (accelerated)
+10:42:     Driver: aticfx32.dll 8.17.10.1172
+10:42:     Monitor: 0
+10:42: Available audio devices:
+10:42:   Périphérique audio principal
+10:42:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:42:   [no sound]
+10:42: 
+10:42: User selected:
+10:42:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:42:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:42:   Audio: Périphérique audio principal
+10:42: Maximum texture size: 16384x16384
+10:42: Engine initialized in 69 ms
+10:42: 
+10:43: 
+10:43: Shutting down...
+10:43: Shutting down scripting engine
+10:43: ********** DEBUG LOG CLOSED ********************************************
+
+10:45: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:45: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:45: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:45: DirectX version: 9.0
+10:45: 
+10:45: Scanning packages...
+10:45:   Registered 0 files in 0 package(s)
+10:45: Initializing scripting engine...
+10:45:   Script compiler bound successfuly
+10:45: Loading plugins...
+10:45:   wme_sample_pixel.dll
+10:45:   wme_snow.dll
+10:45: Loading string table...
+10:45:   51 strings loaded
+10:45: Enumerating Direct3D devices...
+10:45: Enumerating DirectSound devices...
+10:45: Game aspect ratio:    1.333333
+10:45: Monitor aspect ratio: 1.600000
+10:45: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:45:   -> Considering: 1280 x 768
+10:45:   -> Considering: 1280 x 768
+10:45:   -> Considering: 1280 x 800
+10:45:   -> Considering: 1280 x 800
+10:45:   -> Considering: 1360 x 768
+10:45:   -> Considering: 1360 x 768
+10:45:   -> Considering: 1440 x 900
+10:45:   -> Considering: 1440 x 900
+10:45:   -> Considering: 1600 x 900
+10:45:   -> Considering: 1600 x 900
+10:45:   -> Considering: 1680 x 1050
+10:45:   -> Considering: 1680 x 1050
+10:45: Optimal resolution: 1280 x 768
+10:45: Backup resolution:  1280 x 768
+10:45: 
+10:45: Available video devices:
+10:45:   ATI Radeon HD 5800 Series (accelerated)
+10:45:     Driver: aticfx32.dll 8.17.10.1172
+10:45:     Monitor: 0
+10:45: Available audio devices:
+10:45:   Périphérique audio principal
+10:45:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:45:   [no sound]
+10:45: 
+10:45: User selected:
+10:45:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:45:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:45:   Audio: Périphérique audio principal
+10:45: Maximum texture size: 16384x16384
+10:45: Engine initialized in 36 ms
+10:45: 
+10:45: Compiling script 'scenes\Room\scr\chest.script'...
+10:45:   Error@line 20: Function 'sleep' is referenced but not defined
+10:45: Compiling script 'scenes\Room\scr\chest.script'...
+10:45:   Error@line 22: Function 'sleep' is referenced but not defined
+10:46: 
+10:46: Shutting down...
+10:46: Shutting down scripting engine
+10:46: ********** DEBUG LOG CLOSED ********************************************
+
+10:47: ********** DEBUG LOG OPENED 03-07-2013 (Release Build) *****************
+10:47: Wintermute Engine ver 1.9.1, Compiled on Jan  1 2010, 09:47:09
+10:47: Platform: Windows XP or higher Service Pack 1 (Build 7601)
+10:47: DirectX version: 9.0
+10:47: 
+10:47: Scanning packages...
+10:47:   Registered 0 files in 0 package(s)
+10:47: Initializing scripting engine...
+10:47:   Script compiler bound successfuly
+10:47: Loading plugins...
+10:47:   wme_sample_pixel.dll
+10:47:   wme_snow.dll
+10:47: Loading string table...
+10:47:   51 strings loaded
+10:47: Enumerating Direct3D devices...
+10:47: Enumerating DirectSound devices...
+10:47: Game aspect ratio:    1.333333
+10:47: Monitor aspect ratio: 1.600000
+10:47: Searching for optimal resolution (device: ATI Radeon HD 5800 Series)
+10:47:   -> Considering: 1280 x 768
+10:47:   -> Considering: 1280 x 768
+10:47:   -> Considering: 1280 x 800
+10:47:   -> Considering: 1280 x 800
+10:47:   -> Considering: 1360 x 768
+10:47:   -> Considering: 1360 x 768
+10:47:   -> Considering: 1440 x 900
+10:47:   -> Considering: 1440 x 900
+10:47:   -> Considering: 1600 x 900
+10:47:   -> Considering: 1600 x 900
+10:47:   -> Considering: 1680 x 1050
+10:47:   -> Considering: 1680 x 1050
+10:47: Optimal resolution: 1280 x 768
+10:47: Backup resolution:  1280 x 768
+10:47: 
+10:47: Available video devices:
+10:47:   ATI Radeon HD 5800 Series (accelerated)
+10:47:     Driver: aticfx32.dll 8.17.10.1172
+10:47:     Monitor: 0
+10:47: Available audio devices:
+10:47:   Périphérique audio principal
+10:47:   Audio numérique (SPDIF) (Périphérique High Definition Audio)
+10:47:   [no sound]
+10:47: 
+10:47: User selected:
+10:47:   Video: ATI Radeon HD 5800 Series (accelerated)
+10:47:          Windowed:yes  Colors:32bit  T&L:no  Multisample:0
+10:47:   Audio: Périphérique audio principal
+10:47: Maximum texture size: 16384x16384
+10:47: Engine initialized in 53 ms
+10:47: 
+10:57: 
+10:57: Shutting down...
+10:57: Shutting down scripting engine
+10:57: ********** DEBUG LOG CLOSED ********************************************
